@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<userInfo>
+<user name="bob" password="cool"/>
+<user name="u" password="u"/>
+<user name="John" password="Lewis"/>
+<user name="chloe" password="password"/>
+<user name="Ben" password="anime"/>
+<user name="jenny" password="random"/>
+<user name="Soaps" password="bubbles"/>
+<user name="n" password="n">
+<message sender="n: bob">everybody loves me, for I am bob cool, the coolest dude in all the land</message>
+<message sender="n: bob">hey n, you still there? Goodness people these days are so rude!</message>
+</user>
+</userInfo>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groupInfo>
+<group name="cs">
+<admin>Soaps</admin>
+<admin>John</admin>
+<member>jenny</member>
+</group>
+<group name="test">
+<admin>Soaps</admin>
+<member>u</member>
+</group>
+<group name="cool people only">
+<admin>bob</admin>
+</group>
+<group name="n">
+<admin>n</admin>
+<member>bob</member>
+</group>
+</groupInfo>

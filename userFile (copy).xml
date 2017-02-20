@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userInfo>
+
+<user name = "bob" password = "cool">
+   <message sender = "n">you wanna come to mine today? we're having pizza!</message>
+</user>
+
+<user name = "u" password = "u">
+   <message sender = "Soaps">sup</message>
+</user>
+
+<user name = "n" password = "n">
+</user>
+
+<user name = "chloe" password = "password">
+</user>
+
+<user name = "jenny" password = "random">
+</user>
+
+<user name = "Soaps" password = "bubbles">
+   <message sender = "u">hey there Sophie, what ya doin????</message>
+   <message sender = "chloe">hi, how are you?</message>
+</user>
+
+<user name = "John" password = "Lewis">
+   <message sender = "Soaps">yo sup</message>
+</user>
+
+</userInfo>
+
